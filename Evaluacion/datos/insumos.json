@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Paracetamol 500mg",
+    "tipo": "Medicamento",
+    "stock": 1200,
+    "costo_usd": 0.08
+  },
+  {
+    "nombre": "Ibuprofeno 400mg",
+    "tipo": "Medicamento",
+    "stock": 900,
+    "costo_usd": 0.10
+  },
+  {
+    "nombre": "Omeprazol 20mg",
+    "tipo": "Medicamento",
+    "stock": 600,
+    "costo_usd": 0.15
+  },
+  {
+    "nombre": "Amoxicilina 500mg",
+    "tipo": "Antibiótico",
+    "stock": 500,
+    "costo_usd": 0.20
+  },
+  {
+    "nombre": "Alcohol gel 500ml",
+    "tipo": "Insumo Clínico",
+    "stock": 300,
+    "costo_usd": 2.50
+  },
+  {
+    "nombre": "Mascarilla quirúrgica (caja 50)",
+    "tipo": "Insumo Clínico",
+    "stock": 150,
+    "costo_usd": 3.80
+  },
+  {
+    "nombre": "Guantes de nitrilo (caja 100)",
+    "tipo": "Insumo Clínico",
+    "stock": 180,
+    "costo_usd": 6.20
+  },
+  {
+    "nombre": "Jeringas 5ml (caja 100)",
+    "tipo": "Insumo Clínico",
+    "stock": 200,
+    "costo_usd": 4.10
+  },
+  {
+    "nombre": "Suero fisiológico 0.9% 1L",
+    "tipo": "Solución",
+    "stock": 250,
+    "costo_usd": 1.80
+  },
+  {
+    "nombre": "Termómetro digital",
+    "tipo": "Equipo",
+    "stock": 100,
+    "costo_usd": 5.50
+  }
+]

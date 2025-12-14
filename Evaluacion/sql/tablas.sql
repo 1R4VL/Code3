@@ -1,0 +1,11 @@
+SELECT * from RR_USUARIO;
+SELECT * from RR_MEDICO;
+
+-- Código para eliminar todas las tablas y constraints residuales
+DROP TABLE rr_agenda CASCADE CONSTRAINTS;
+DROP TABLE rr_consultas CASCADE CONSTRAINTS;
+DROP TABLE rr_recetas CASCADE CONSTRAINTS;
+DROP TABLE rr_insumos CASCADE CONSTRAINTS;
+DROP TABLE rr_medico CASCADE CONSTRAINTS;
+DROP TABLE rr_paciente CASCADE CONSTRAINTS;
+DROP TABLE rr_usuario CASCADE CONSTRAINTS;
